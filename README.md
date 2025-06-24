@@ -2,6 +2,7 @@
 
 不知道说明里面怎么放截图，直接把软件运行图片放到文件夹里了。自己看吧。
 
+下载地址：https://github.com/sysalong/ali_waf_gui/releases/download/v1.0/Ali_Waf_Gui_v1.rar
 
 千万不要用工具做坏事，比如：
 
